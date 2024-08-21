@@ -1,4 +1,6 @@
-# <center> Training script for contentvec </center>
+<div style="text-align: center;">
+  <h1>Training script for contentvec</h1>
+</div>
 
 This script makes the environment ready to start preprocessing the dataset, preprocess it, and start training afterwards. Tested on Ubuntu via WSL
 
